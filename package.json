@@ -1,0 +1,23 @@
+
+{
+  "name": "react-native-bga-badge-view",
+  "version": "1.0.0",
+  "description": "react-native android-wrapper component for BGABadgeView",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bob1993/react-native-bga-badge-view.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "poberwong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bob1993/react-native-bga-badge-view/issues"
+  },
+  "homepage": "https://github.com/Bob1993/react-native-bga-badge-view#readme"
+}
